@@ -1,16 +1,16 @@
 {
   "array":[
      {
-      "boolean": false,
+      "boolean": true,
       "color": "gold",
-      "utility": "da implementare",
-      "number": 123
+      "utility": "vaffanculo",
+      "number": 777
     },
     {
-      "boolean": false,
+      "boolean": true,
       "color": "silver",
-      "utility": "da implementare",
-      "number": 789
+      "utility": "vacce te",
+      "number": 1234
     }
   ]
 }
