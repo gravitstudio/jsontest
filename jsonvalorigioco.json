@@ -1,5 +1,5 @@
 {
-  "array": [
+  "array":
     {
       "boolean": true,
       "color": "gold",
@@ -8,6 +8,6 @@
       "object": {
         "a": "b",
         "c": "d"
-     }
-   ]
+      }
+    }
 }
