@@ -3,13 +3,13 @@
     {
       "boolean": false,
       "color": "gold",
-      "null": null,
+      "utility": "da implementare",
       "number": 123
     },
     {
       "boolean": false,
       "color": "silver",
-      "null": null,
+      "utility": "da implementare",
       "number": 789
     }
   ]
