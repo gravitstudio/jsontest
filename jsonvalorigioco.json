@@ -7,10 +7,10 @@
       "number": 123
     },
     {
-      "boolean": true,
-      "color": "gold",
+      "boolean": false,
+      "color": "silver",
       "null": null,
-      "number": 123
+      "number": 789
     }
   ]
 }
