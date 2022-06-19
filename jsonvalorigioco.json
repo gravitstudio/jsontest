@@ -47,4 +47,12 @@
 		"Movement": 3,
 		"3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	}
+	{
+		"Name": "Personaggio7",
+		"Personaggio": "Paper Boy",
+		"Nome": "Luigi",
+		"Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+		"Movement": 6,
+		"3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+	}
 ]
