@@ -1,5 +1,5 @@
 { 
-	"data": [
+"data": [
 	{
  "Name": "Personaggio1",
  "Personaggio": "Operatore",
@@ -56,8 +56,6 @@
  "Movement": 6,
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	}
- 
- 
 	]
-	}
+}
 	
