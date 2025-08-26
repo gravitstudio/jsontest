@@ -1,60 +1,60 @@
 { 
 "data": [
 	{
- "cod": "Personaggio1",
- "Personaggio": "Operatore",
- "Nome": "Gennaro",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 6,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio1",
+ "personaggio": "Operatore",
+ "nome": "Gennaro",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 6,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio2",
- "Personaggio": "Medium",
- "Nome": "Marlena",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 4,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio2",
+ "personaggio": "Medium",
+ "nome": "Marlena",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 4,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio3",
- "Personaggio": "Fonista",
- "Nome": "Zoia",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 3,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio3",
+ "personaggio": "Fonista",
+ "nome": "Zoia",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 3,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio4",
- "Personaggio": "Regista",
- "Nome": "Barbara",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 5,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio4",
+ "personaggio": "Regista",
+ "nome": "Barbara",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 5,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio5",
- "Personaggio": "Reporter",
- "Nome": "Gianfi",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 5,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio5",
+ "personaggio": "Reporter",
+ "nome": "Gianfi",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 5,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio6",
- "Personaggio": "Impresario",
- "Nome": "Mario",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 3,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio6",
+ "personaggio": "Impresario",
+ "nome": "Mario",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 3,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "cod": "Personaggio7",
- "Personaggio": "Paper Boy",
- "Nome": "Luigi",
- "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
- "Movement": 6,
- "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
+ "cod": "personaggio7",
+ "personaggio": "Paper Boy",
+ "nome": "Luigi",
+ "icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
+ "movement": 6,
+ "3dmodel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	}
 	]
 }
