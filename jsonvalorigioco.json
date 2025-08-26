@@ -1,7 +1,7 @@
 { 
 "data": [
 	{
- "Name": "Personaggio1",
+ "cod": "Personaggio1",
  "Personaggio": "Operatore",
  "Nome": "Gennaro",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -9,7 +9,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio2",
+ "cod": "Personaggio2",
  "Personaggio": "Medium",
  "Nome": "Marlena",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -17,7 +17,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio3",
+ "cod": "Personaggio3",
  "Personaggio": "Fonista",
  "Nome": "Zoia",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -25,7 +25,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio4",
+ "cod": "Personaggio4",
  "Personaggio": "Regista",
  "Nome": "Barbara",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -33,7 +33,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio5",
+ "cod": "Personaggio5",
  "Personaggio": "Reporter",
  "Nome": "Gianfi",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -41,7 +41,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio6",
+ "cod": "Personaggio6",
  "Personaggio": "Impresario",
  "Nome": "Mario",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
@@ -49,7 +49,7 @@
  "3DModel": "StaticMesh'/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'"
 	},
 	{
- "Name": "Personaggio7",
+ "cod": "Personaggio7",
  "Personaggio": "Paper Boy",
  "Nome": "Luigi",
  "Icon": "Texture2D'/Game/Core/Mesh/Walls/Textures/eef2d885f5209068d8f07e886e85255a.eef2d885f5209068d8f07e886e85255a'",
